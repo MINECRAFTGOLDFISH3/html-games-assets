@@ -1,0 +1,16 @@
+{
+  "name": "html-games-assets",
+  "scripts": {
+    "build": "yarn",
+    "start": "yarn run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MINECRAFTGOLDFISH3/html-games-assets.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MINECRAFTGOLDFISH3/html-games-assets/issues"
+  },
+  "homepage": "https://github.com/MINECRAFTGOLDFISH3/html-games-assets"
+}
